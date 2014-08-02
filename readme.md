@@ -3,9 +3,7 @@
 > Chrome extension - Clears the Downloads list every 10 seconds to force the download bar to disappear when all downloads are complete
 
 
-## Install
-
-[Get it on the Chrome Web Store.][install]
+## [Install][install]
 
 
 ## License
